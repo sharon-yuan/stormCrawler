@@ -12,7 +12,7 @@ public class EventScheme implements Scheme{
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = -4818308754234155130L;
+	private static final long serialVersionUID = -1L;
 
 	public List<Object> deserialize(byte[] arg0) {
 		//TODO find the useful info from whole dataflow
